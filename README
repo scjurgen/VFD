@@ -1,1 +1,10 @@
-routines for FUTABA VFD displays for ARDUINO
+routines for FUTABA VFD displays for ARDUINO.
+
+Currently supported VFD's:
++ M162SD13AA (16x2 characters display, synchronous Serial Interface)
++ M12BY02AA_B (12 character alpha num display,SPI)
++ P9002A01A (128x64 pixel display, SPI)
+
+
+The M162SD12AA should work too.
+
